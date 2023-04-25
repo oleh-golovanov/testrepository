@@ -1,3 +1,3 @@
 # testrepository
 For test purposes
-Adding feature 1
+Adding feature 2
